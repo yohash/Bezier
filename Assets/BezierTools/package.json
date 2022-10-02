@@ -1,6 +1,6 @@
 {
   "name": "com.yohash.bezier",
-  "version": "0.1.1",
+  "version": "0.1.0",
   "displayName": "Bezier Tools",
   "description": "A collection of bezier parameterization",
   "unity": "2019.1",
